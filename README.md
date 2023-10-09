@@ -9,3 +9,7 @@ el /etc/dhcp/dhcpd.conf debe quedar asi
 
 ![image](https://github.com/darkrayo97/dhcp/assets/114906901/44b99b32-b176-4585-9036-8f7eb7d10939)
 ![image](https://github.com/darkrayo97/dhcp/assets/114906901/577bb630-329d-4b2c-adac-c64a41b31776)
+
+luego /etc/network/interfaces con dos tarjetas una con salida a internet y la otra para la red interna
+![image](https://github.com/darkrayo97/dhcp/assets/114906901/08373f88-55f5-44a8-af38-d6d131ec18be)
+
