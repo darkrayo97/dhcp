@@ -25,9 +25,7 @@ con este declaramos por que  tarjeta va a funcionar el dhcp en la red interna
 
 ![image](https://github.com/darkrayo97/dhcp/assets/114906901/3bee0324-9452-41a4-81f8-529aa50f4be0)
 ## segundo servidor
-se hace una clonacion del primer servidor pero se modifica
-
-algunas cosas como la ip
+se hace una clonacion del primer servidor pero se modifica algunas cosas como la ip
 ![image](https://github.com/darkrayo97/dhcp/assets/114906901/7b5c5913-e5ee-4522-824a-3d2208029b5f)
 
 tambien el /etc/dhcp/dhcpd.conf ya que en este caso el failover debe quedar como secundario
