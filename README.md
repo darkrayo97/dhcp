@@ -38,3 +38,10 @@ tambien el /etc/dhcp/dhcpd.conf ya que en este caso el failover debe quedar como
 ![image](https://github.com/darkrayo97/dhcp/assets/114906901/ecd42795-6550-413c-aea9-18a6c5643b79)
 
 
+## prueba con el cliente
+
+Teniedo los dos servidores el cliente primero se conecta al servidor que en el failover este puesto primary
+
+![image](https://github.com/darkrayo97/dhcp/assets/114906901/0f0ce1b9-82b1-42f1-bf21-d3eb0fb47db7)
+
+
