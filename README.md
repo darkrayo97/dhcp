@@ -44,4 +44,10 @@ Teniedo los dos servidores el cliente primero se conecta al servidor que en el f
 
 ![image](https://github.com/darkrayo97/dhcp/assets/114906901/0f0ce1b9-82b1-42f1-bf21-d3eb0fb47db7)
 
+si se apaga el servidor primario el secundario le responde automaticamente
+
+![image](https://github.com/darkrayo97/dhcp/assets/114906901/da9aa82f-74f1-48db-82b2-c1595e5f108d)
+
+
+ambos tienen salida a internet en cada servidor
 
