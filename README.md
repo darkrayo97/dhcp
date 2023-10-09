@@ -15,4 +15,4 @@ luego /etc/network/interfaces con dos tarjetas una con salida a internet y la ot
 ![image](https://github.com/darkrayo97/dhcp/assets/114906901/08373f88-55f5-44a8-af38-d6d131ec18be)
 
 con este archivo configurado tendremos puente para que la red interna salga a internet
-![image](https://github.com/darkrayo97/dhcp/assets/114906901/042e3474-122b-489f-a54e-988003f76c3b)
+![image](https://github.com/darkrayo97/dhcp/assets/114906901/66ad6218-2f97-4cc6-97a4-abdb5a63985f)
